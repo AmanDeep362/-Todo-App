@@ -82,3 +82,51 @@ input.pending-task-checkbox{
     margin-left: 349px;
     margin-top: 173px;
 }
+@media only screen and (max-width: 600px) {
+.horizontal-line1{
+    display: none;
+}
+.main-container{
+    margin-left: 3%;
+    margin-top: 2%;
+    width: 445px;
+   
+}
+.main-heading{
+    font-size: 30px;
+    text-align: start;
+    margin-left: 154px;
+    margin-top: 39px;
+}
+.back-text{
+    display: none;
+}
+.fas{
+    position: absolute;
+    top: 49px;
+    left: 118px;
+}
+.todo-list-container{
+    width: 250px;
+    height: 339px;
+    margin-left: 105px;
+    margin-top: 50px;
+}
+.horizontal-line{
+    margin-left: 25%;
+    
+ }
+ .complete-task-text{
+  font-size: 20px;
+ }
+ input.pending-task-checkbox{
+    
+    margin-left: 45px;
+}
+.add-list-icon{
+    margin-left: 200px;
+    margin-top: 110px;
+}
+
+
+}
